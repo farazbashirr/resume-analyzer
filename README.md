@@ -4,7 +4,7 @@ An AI-powered web app that compares a resume against a job description and retur
 
 ## Demo
 
-![App screenshot](screenshots/demo.png)
+<img width="1292" height="638" alt="image" src="https://github.com/user-attachments/assets/ab3f5e44-537d-40f7-b987-5ba75211ab3c" />
 
 ## Features
 
